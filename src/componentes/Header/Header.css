@@ -1,0 +1,10 @@
+.mx-width {
+  max-width: 500px;
+}
+#nave-element {
+  color: aliceblue;
+}
+Nav.Link {
+  color: aliceblue;
+  justify-content: space-between;
+}
